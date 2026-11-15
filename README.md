@@ -94,12 +94,9 @@ This project focuses on understanding:
 
 ## Future Improvements
 
-- Search for contacts by name.
-- Delete existing contacts.
-- Update contact information.
-- Display all contacts.
+
 - Save contacts to a file.
-- Load contacts when the program starts.
+
 
 ## Author
 
